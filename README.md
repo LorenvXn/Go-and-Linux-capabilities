@@ -4,6 +4,6 @@ Send a ping request to a host and get a reply. After building the go program,  r
 
 Output as non-root user:
 
-$ ./bashEET.sh <br \>
+$ ./run_it.sh <br \>
 bytes = cap_net_raw+ep <br \>
 Got response 
